@@ -1,3 +1,4 @@
 docenv/*
 .env
 .venv/*
+diseases_embedding_model/*
