@@ -5,7 +5,7 @@ This repository contains a structured dataset for building Retrieval-Augmented G
 ### In Memory of Caspu
 <img src="https://github.com/the-ray-kar/VetRAG_Dataset/blob/fa0621aad162fe121563058ebc91df5e0008b601/caspu.jpg?raw=true" width="400" />
 Dogs can't speak but they can express their pain. However this expression is often misunderstood or ignored.
-<br>My I aim to build a retrieval engine from trusted resources which can provide answers to me everything about dogs.
+<br>My I aim is to build a retrieval engine from trusted resources which can provide answers to me everything about dogs.
 
 
 ## Dataset Overview
